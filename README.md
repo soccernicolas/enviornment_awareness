@@ -12,4 +12,4 @@ Operation Instructions: Open up index.html and browse our webpage! Be sure to ed
 Credits: Nicolas, Morgan, Virij, Adem  
 Acknowlegdements: Lynn University and the team at Hack at Lynn  
 Contact Infomation: environmentwebpage@gmail.com  
-This program is given free of charge, but not free of copyright. This software file is copyright � Nicolas Rodriguez 2019. This software is provided "as-is". No warranties, expressed and implied. By downloading this piece of software you consent to hold harmless the creaters of this software.
+This program is given free of charge, but not free of copyright. This software file is copyright © Nicolas Rodriguez 2019. This software is provided "as-is". No warranties, expressed and implied. By downloading this piece of software you consent to hold harmless the creaters of this software.
