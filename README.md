@@ -1,4 +1,4 @@
-﻿Environment Website  
+# enviornment_awareness
 Pre-Alpha Version 1.4  
 This website was made over the days of April 27th and 28th of 2019 during a hackathon. The original developers came up with this idea because they wanted to bring public attention to the fact that the human race is destroying the very enviornment that we live in.  
 The original webpage presented on the 28th of April 2019 was very basic, with a simple navbar, pictures, and text. The majority of these two days, however, was spent on a recycling game. This game was made by a member of the team, Adem and used up much of the time of the team.  
