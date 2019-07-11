@@ -6,7 +6,7 @@ The webpage and game were made using HTML, CSS, and JavaScript.
 Install Instructions: Unzip all the files from Alpha 1.4.zip and enjoy the webpage and game!  
 Uninstall Instructions: No special steps required.  
 Configuration Instructions: No special steps required.  
-Operation Instructions: Open up index.html and browse our webpage! Be sure to edit and suggest on our GitHub your edits!  
+Operation Instructions: Open up index.html and browse our webpage! Be sure to edit and suggest on GitHub your edits!  
 Credits: Nicolas, Morgan, Virij, Adem  
 Acknowlegdements: Lynn University and the team at Hack at Lynn.  
 Contact Infomation: environmentwebpage@gmail.com  
